@@ -1,0 +1,19 @@
+{
+  "name": "projectone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint assets/javascript/script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rnakada/projectOne.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rnakada/projectOne/issues"
+  },
+  "homepage": "https://github.com/rnakada/projectOne#readme"
+}

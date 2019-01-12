@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rnakada/projectOne/issues"
   },
-  "homepage": "https://github.com/rnakada/projectOne#readme"
+  "homepage": "https://github.com/rnakada/projectOne#readme",
+  "dependencies": {
+    "jshint": "^2.9.7"
+  }
 }
